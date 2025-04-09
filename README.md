@@ -4,8 +4,6 @@ A shopping list management application built using Flutter. This project demonst
 
 ## Features
 - Create, update, and delete shopping list items.
-- Organize items into categories.
-- Cross-platform support (iOS, Android).
 
 ## Installation
 1. Clone the repository:
