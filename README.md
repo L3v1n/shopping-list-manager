@@ -1,4 +1,4 @@
-# shopping_list_manager
+# Shopping List Manager
 
 A shopping list management application built using Flutter. This project demonstrates the basics of Flutter development, including UI design and state management.
 
